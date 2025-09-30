@@ -6,3 +6,5 @@ Additionally, to find [PEP 8 click here](https://peps.python.org/pep-0008/#progr
 
 
 For While Loops assignment:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/jspiegel3/module4_professor_spiegel_cohen/blob/main/Loops_While_For_Questions.ipynb)
